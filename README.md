@@ -3,8 +3,7 @@
 
 Este proyecto implementa una herramienta para realizar ataques de ARP Spoofing y escanear redes locales, diseñada con una arquitectura Modelo-Vista-Controlador (MVC) para una mejor organización y mantenibilidad del código. La aplicación proporciona una interfaz gráfica de usuario (GUI) que facilita su uso.
 
-**Interfaz de Usuario:**
-![Captura de pantalla de la interfaz principal de la aplicación](images/interfaz.png)
+
 
 
 ## 💻 Tecnologías Utilizadas

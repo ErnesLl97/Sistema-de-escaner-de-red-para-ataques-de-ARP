@@ -81,8 +81,3 @@ Esta herramienta puede ser útil en varios escenarios:
     * **Diagnóstico de Red Doméstica**: Identificar todos los dispositivos conectados a tu red Wi-Fi y sus direcciones IP/MAC, útil para solucionar problemas o asegurar tu red.
     * **Detección de Dispositivos Desconocidos**: Verificar si hay dispositivos no autorizados conectados a tu red.
 
-## 📧 Contacto y Contribuciones
-
-¡Tu feedback y contribuciones son bienvenidos!
-
-* **Correo Electrónico**: gc5444592@gmail.com
